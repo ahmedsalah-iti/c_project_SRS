@@ -1,6 +1,6 @@
 # Student Grade Management System (SRS)
 
-**Published Date:** January 4, 2025  
+**Published Date:** December 19, 2024  
 **Author:** Ahmed Salah  
 **Role:** The Programmer  
 **Repository:** [https://github.com/ahmedsalah-iti/c_project_SRS](https://github.com/ahmedsalah-iti/c_project_SRS)
