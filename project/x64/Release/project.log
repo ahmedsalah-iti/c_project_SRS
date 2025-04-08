@@ -1,0 +1,109 @@
+﻿  project.c
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(194,11): warning C4013: 'getch' undefined; assuming extern returning int
+  (compiling source file 'project.c')
+  
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(310,30): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+  (compiling source file 'project.c')
+  
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(310,30): warning C4024: 'getStudentByID2': different types for formal and actual parameter 3
+  (compiling source file 'project.c')
+  
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(505,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'project.c')
+  
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(656,31): warning C4474: 'printf' : too many arguments passed for format string
+  (compiling source file 'project.c')
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(656,31):
+      placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+  
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(739,47): warning C4474: 'printf' : too many arguments passed for format string
+  (compiling source file 'project.c')
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(739,47):
+      placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+  
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(159,13): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char *(*)[25]'
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(159,13):
+      this argument is used by a conversion specifier
+  
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(159,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(159,13):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(159,13):
+      the missing variadic argument 2 is required by format string '%s'
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(159,13):
+      this argument is used as a buffer size
+  
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(161,13): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char *(*)[25]'
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(161,13):
+      this argument is used by a conversion specifier
+  
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(161,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(161,13):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(161,13):
+      the missing variadic argument 2 is required by format string '%s'
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(161,13):
+      this argument is used as a buffer size
+  
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(162,12): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[50]'
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(162,12): warning C4024: 'strcpy': different types for formal and actual parameter 1
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(162,21): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[25]'
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(162,21): warning C4024: 'strcpy': different types for formal and actual parameter 2
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(163,12): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[50]'
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(163,12): warning C4024: 'strcat': different types for formal and actual parameter 1
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(164,12): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[50]'
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(164,12): warning C4024: 'strcat': different types for formal and actual parameter 1
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(164,21): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[25]'
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(164,21): warning C4024: 'strcat': different types for formal and actual parameter 2
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(166,41): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[50]'
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(166,41): warning C4024: 'AddStudent': different types for formal and actual parameter 3
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(219,20): warning C4013: 'getche' undefined; assuming extern returning int
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(360,14): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char *(*)[25]'
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(360,14):
+      this argument is used by a conversion specifier
+  
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(360,14): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(360,14):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(360,14):
+      the missing variadic argument 2 is required by format string '%s'
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(360,14):
+      this argument is used as a buffer size
+  
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(362,14): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char *(*)[25]'
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(362,14):
+      this argument is used by a conversion specifier
+  
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(362,14): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(362,14):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(362,14):
+      the missing variadic argument 2 is required by format string '%s'
+      C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(362,14):
+      this argument is used as a buffer size
+  
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(363,13): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[50]'
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(363,13): warning C4024: 'strcpy': different types for formal and actual parameter 1
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(363,22): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[25]'
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(363,22): warning C4024: 'strcpy': different types for formal and actual parameter 2
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(364,13): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[50]'
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(364,13): warning C4024: 'strcat': different types for formal and actual parameter 1
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(365,13): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[50]'
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(365,13): warning C4024: 'strcat': different types for formal and actual parameter 1
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(365,22): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[25]'
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(365,22): warning C4024: 'strcat': different types for formal and actual parameter 2
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(367,65): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[50]'
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\project.c(367,65): warning C4024: 'UpdateStudentName': different types for formal and actual parameter 3
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(191): warning C4715: 'getMenuConfigPageItem': not all control paths return a value
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(175): warning C4715: 'getMenuDisplayPageItem': not all control paths return a value
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(151): warning C4715: 'getMenuEditPageItem': not all control paths return a value
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(231): warning C4715: 'menuToPage': not all control paths return a value
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(110): warning C4715: 'getMenuItem': not all control paths return a value
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(132): warning C4715: 'getMenuItemIcon': not all control paths return a value
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(275): warning C4715: 'getSubNameById': not all control paths return a value
+C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\project\functions.h(255): warning C4715: 'setActiveMenuItem': not all control paths return a value
+  All 48 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  project.vcxproj -> C:\Users\ahmed\OneDrive\Desktop\iti\c\projectv2\project\x64\Release\project.exe
